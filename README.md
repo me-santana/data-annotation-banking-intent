@@ -33,3 +33,25 @@ O objetivo principal foi aplicar conceitos de anotação de dados (Data Annotati
 Meu nome é Maria Eduarda Santana. Tenho formação técnica em Administração, experiência como agente bilíngue (PT/EN) no atendimento ao cliente, e atualmente curso Ciência de Dados. Estou desenvolvendo projetos práticos como este para fortalecer meu portfólio e ingressar profissionalmente na área de dados.
 
 🔗 [Conecte-se comigo no LinkedIn](https://www.linkedin.com/in/me-santana)
+
+## 📂 Dados do Projeto
+
+Este repositório contém um conjunto de frases em português relacionadas a intenções comuns em atendimentos bancários, como "Abertura de Conta", "Problema com Cartão" e "Informações Gerais". Essas frases foram anotadas manualmente usando a ferramenta Label Studio.
+
+Você pode acessar o dataset clicando no link abaixo:
+
+🔗 [frases_anotadas_banco.csv](./data/frases_anotadas_banco.csv)
+
+### 📌 Finalidade
+O arquivo CSV pode ser usado para:
+- Treinar modelos de classificação de intenção
+- Testar fluxos de NLP (Processamento de Linguagem Natural)
+- Estudos e projetos de Data Annotation
+
+### 🛠️ Estrutura do Arquivo
+| frase                                          | intencao                |
+|------------------------------------------------|--------------------------|
+| Quero abrir uma conta corrente                | Abertura de Conta       |
+| Meu cartão não está funcionando               | Problema com Cartão     |
+| Qual o horário de funcionamento da agência?   | Horário de Funcionamento|
+
