@@ -42,6 +42,20 @@ Você pode acessar o dataset clicando no link abaixo:
 
 🔗 [frases_anotadas_banco.csv](./data/frases_anotadas_banco.csv)
 
+## 🖼️ Capturas de Tela
+
+Abaixo estão algumas imagens do processo de anotação usando o Label Studio:
+
+### 📌 Visão Geral do Projeto
+![Label Studio - Projeto](./prints/label-studio-projeto.png)
+
+### ✍️ Tarefas de Anotação
+![Anotações em andamento](./prints/tela-anotacoes.png)
+
+### 🧩 Configuração das Labels
+![Configuração das etiquetas](./prints/configuracao-labels.png)
+
+
 ### 📌 Finalidade
 O arquivo CSV pode ser usado para:
 - Treinar modelos de classificação de intenção
